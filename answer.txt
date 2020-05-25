@@ -1,0 +1,7 @@
+1. pip list | cut -d ' ' -f 1
+
+2. pip list
+
+3. pip --verbose show numpy
+
+4. pip search tesseract
